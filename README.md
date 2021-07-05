@@ -141,7 +141,7 @@ end
 ```
 
 Now all the tests will pass!
-Try to complete the similar exercise below where the `Shoe` class can keep track of all of the brands of the different show objects.
+Try to complete the similar exercise below where the `Shoe` class can keep track of all of the brands of the different shoe objects.
 
 ## Shoe Class
 
